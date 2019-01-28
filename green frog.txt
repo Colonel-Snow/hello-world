@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is the Master Note
 RED FROG RED FROG
+=======
+This is the Master Note
+green frog
+>>>>>>> 595d0d8bf0f77f68d302512f4d5b29befb3b4ecd
